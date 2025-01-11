@@ -1,4 +1,5 @@
-## Hi there 👋
+## I'm currently studying in university of ruhuna Sri Lanka.
+## I like to learn programming
 
 <!--
 **HasinthaEdirisooriya1/HasinthaEdirisooriya1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
